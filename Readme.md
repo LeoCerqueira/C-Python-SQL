@@ -15,6 +15,6 @@ Week 5 Data Structures ----- Folder > Pset 5\
 Week 6 Python -------------- Folder > Pset 6\
 Week 7 SQL ----------------- Folder > Pset 7
 
-Leo Cerqueira
+Leo Cerqueira >>>
 [Linkedin](www.linkedin.com/in/leocerqueira-programmer)
 # C-Python-SQL
