@@ -1,0 +1,5 @@
+search for comand line argument 
+make it run
+get a plaintext
+make the interactions 
+resturn a ciphertext

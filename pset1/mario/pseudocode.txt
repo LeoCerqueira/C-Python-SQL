@@ -1,0 +1,14 @@
+get a nunber for the user
+    must be btween 1 and 8 <<<
+
+see how many dots and # are needed
+    get_int fucnion (video)<<<
+
+put tha number in a loop condition
+
+    boolean espressoin (video)<<<
+change dots to spaces
+
+    figure that out<<<
+
+                allways testing every step
