@@ -8,7 +8,7 @@ Each week of [CS50](https://cs50.harvard.edu/college/2020/fall/) brings a challe
 In this repository is about to share the final versions of the programs that were codded mostly in C, Phyton and SQL. Each folder corresponds to CS50 week.
 
 Week 1 C -------------------- Folder > Pset 1\
-Week 2 Arrays -------------- Folder > Pset 2\
+Week 2 Arrays --------------- Folder > Pset 2\
 Week 3 Algorithms ---------- Folder > Pset 3\
 Week 4 Memory ------------- Folder > Pset 4\
 Week 5 Data Structures ----- Folder > Pset 5\
